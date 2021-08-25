@@ -1,0 +1,277 @@
+﻿
+*LET: esse jogo é &muit [/2] é muita +
+*GUI: <piu> //
+*LIV: <é> //
+*RAL: é muita regra //
+*LET: <é> //
+*LIV: <pera aí //
+*RAL: <é um jogo / pra quem tem TOC> //
+*LIV: pera aí> //
+*LET: <só se cê tiver> duas iguais //
+*GUI: <corujinha> //
+*LIV: not // go / for it //
+*LET: aí cê tem que sempre ficar de olho / Lívia / porque são quatro cartas de cada uma //
+*LIV: é // é porque eu tô / assim / assimilando //
+*LET: é //
+*LIV: reassimilando //
+*LET: ô / por que cê nũ fez esse pongue de <dragão> aqui //
+*GUI: <é> // <isso // 
+*LET: <que bobeira> //
+*GUI: <é outro han> //
+*RAL: <hhh>
+*GUI: <tadinho> //
+*LET: <branca> //
+*LIV: <qual que é> o pongue de dragão //
+*LET: cê fizesse três aqui / né // ia valer um / han //
+*RAL: eu &co [/1] pensei que eu ia fazer um outro joguinho // esse aí eu &f [/1] planejei esse jogo // aí deu errado //
+*RIC: horrível //
+*RAL: aí eu joguei um dom + aqui o' / eu joguei <isso aqui fora / o'> //
+*LIV: <da penúltima> cê fez isso / <cê> nũ +
+*LET: <não / mas> é porque essa aí / <cê> nũ +
+*RAL: <eu ia> ser simples //
+*LET: <olha só / cê já desceu o um //
+*RAL: <aí depois eu nũ fui simples> //
+*LET: cê nũ tem que fazer jogo> com um e / <nove> //
+*RAL: <eu paguei> dois han / já / nessa bosta //
+*LIV: <é> // tão tá // é // também / eu nũ sei <que cês têm / nũ tem como> //
+*LET: <ai como eu sou ótima> //
+*GUI: <dois primeirão> //
+*LET: <tipo assim> +
+*LIV: mas / <assim> //
+*GUI: <figo> //
+*LIV: <&e> [/1] ele [/1] se ele pegasse aquela carta / por que que cês falam do dragão //
+*LET: <quê> hhh // não / é porque / esse aqui / <e> esse aqui / já valem han / automático //
+*LIV: <se ele> +
+*LET: <só d' ocê <descer esse jogo> +
+*RAL: <eu quase descartei> duas // tá vendo / o' //
+*LIV: <ah / tá> //
+*LET: <se ele tivesse> +
+*RAL: <fui trouxa> //
+*LET: é / se ele tivesse / <três dessa> +
+*RAL: <quando eu descartei> achei que nunca ia sair pra mim // aí foi e saiu // uhn //
+*LIV: <entendi> //
+*LET: e aí [/1] então ele já garantiu // então ele pode fazer qualquer jogo //
+*LIV: uhn / tá //
+*LET: a gente nũ tem <nenhum han garantido> //
+*RAL: <nũ é qualquer jogo> não //
+*LIV: <hum hum> //
+*RIC: que que é han //
+*LET: <é sim> // han +
+*GUI: han <&sa [/1] é o +
+*RAL: <é o [/2] é a mulher do sapo> //
+*LET: <é uma> +
+*GUI: <tipo assim> / quando cê joga / canastra &re [/1] <&he> / <buraco / cê tem que bater> canastra real //
+*LET: <é um requisito> +
+*LIV: <cê quer sentar aqui> //
+*LET: <é o requisito mínimo pra bater> //
+*GUI: <p' ocê bater / cê tem que ter um han> // que são esses jogos aqui do [/1] do / vermelhinho // quer sentar aqui // esses jogos <que tão escrito aqui no vermelhinho> //
+*LET: <vou pegar uma aqui> //
+*RAL: <"ham" na minha> terra é presunto / também // ham //
+*GUI: vento sul / cê quer / Lívia //
+*LIV: não / quero não //
+*RIC: ai gente //
+*LIV: ah / isso aqui já foi tanto que ninguém vai + <aí pode pegar mais um / né> //
+*LET: <e o mais difícil é conseguir fazer> o han / né // <porque / tipo / tem mil tipos de jogos diferentes> //
+*GUI: <não> // <quando cê manda agora / não> //
+*LIV: <não> //
+*GUI: <não> //
+*LIV: se eu mandar <oeste> / aí vem xxx //
+*GUI: <só se> + não //
+*RAL: <agora já era> //
+*LIV: <não> //
+*GUI: <só se> <ele comprar> sozinho //
+*RIC: e por <que que cês> baixam / as peças / assim //
+*LIV: <tá> //
+*LET: isso aqui são os jogos de cada <um / isso aqui é o descarte> //
+*RAL: <esse daqui / ou esse daqui> //
+*RIC: ah //
+*GUI: três numeral //
+*LET: o descarte / depois que alguém descartou / se ninguém usar / ele ficou perdido // ninguém mais pode pegar //
+*RIC: Nossa / e se você quiser usar no seu jogo // pode <não> //
+*LET: <nũ> pode //
+*LIV: não //  isso aqui nunca mais vai ser usado // olha que <horror> //
+*LET: <é> // <e além disso> /
+*RAL: <kong xxx> //
+*GUI: <o'> // kong //
+*LET: / &he / isso aqui é / importante / porque / cê sabe o que que a pessoa descartou pr' ocê adivinhar qual jogo que ela tá fazendo +
+*GUI: <aí eu compro / uma> +
+*RIC: <por que que a Guiomar> pegou aquele ali agora //
+*GUI: <porque eu fiz quatro> //
+*RAL: <yyyy> //
+*LET: ela pode pular a vez / quando é &pe [/2] são <três ou> mais repetidas // <três ou quatro> //
+*RIC: <Nossa> / achei difícil demais hhh //
+*RAL: <Nossa> <Senhora> //
+*LET: <é difícil> // <xá eu ver xxx> // aí isso aqui /
+*GUI: sete <bola> //
+*RAL: significa que ela teve <muita sorte> //
+*LET: / <isso aqui significa> que / &he +
+*RAL: <significa> //
+*LET: <puta> // é // cê viu / mãe //
+*RIC: &is [/1] isso é coisa da Katilene / né / cê sabe // significa //
+*LET: é hhh //
+*RAL: não / isso é do / <Ronnie Von> / também //
+*LET: <é do> + é Ronnie Von //
+*RIC: a Katilene também //
+*LIV: pera aí // <cê já jogou> //
+*RIC: <yyyy> //
+*GUI: ele jogou / <sete bola> //
+*LET: sete bola> <cê nũ pode pegar não> //
+*LIV: <não / pode ir / pode ir> // pode ir //
+*RAL: cê nũ po' pegar o dela / cê nũ po' pegar o meu //
+*LET: nove numeral //
+*GUI: cê viu que ela te fodeu / né // ela te / mostrou o jogo mais difícil cê fazer // que nũ vale <nada> //
+*LIV: foi //
+*LET: não <é / xxx> //
+*GUI: <aqui o'> // <compra esse aqui / o'> //
+*LET: <es que nũ viram> a porcariada que foi na mão da Lívia //
+*LIV: hhh nunca mais / eu jogo / essa &f [/1] merda aqui //
+*LET: vai lá / Lívia //
+*LIV: ahn //
+*LET: a gente viu que cê / nũ queria mais //
+*LIV: <tá> //
+*RIC: <mas você> pode olhar as peças do colega //
+*LET: não / <eu tô ajudandoela porque ela / esqueceu já / como> que joga //
+*LIV: <não / é só porque / eu sou juninha ainda> //
+*RAL: carta <branca //
+*LIV: <eu joguei uma vez só> //
+*RAL: café com leite> //
+*LET: uhn //
+*RAL: putz grila //
+*GUI: cinco numeral //
+*LET: mas aí tem / tipo / <mil tipos de> jogos que valem esse multiplicador /  <aí cê tem> +
+*LIV: <cinco numeral> //
+*GUI: <ninguém> //
+*LET: não //
+*RAL: hum hum //
+*GUI: quatro <numeral> //
+*LET: <cê> tem que / tentar fazer um jogo senão nũ vale nada //
+*RIC: e que [/2] &a [/1] quando que pode pegar esse que ela descartou agora // <só agora> //
+*LIV: <só se> +
+*GUI: se ocê &fa [/2] ocê &fa [/1] fizer trinca //
+*LIV: <só se cê for descer com ele> //
+*RAL: <e só com> +
+*LET: <e se for trinca / cê pode pegar> qualquer hora // se for seqüência / só quando o anterior descartou //
+*GUI: seis <bambu> //
+*RIC: <entendi> //
+*LIV: seis <bambu> //
+*RIC: <isso parece> [/2] isso parece <Rummikub / nesse sentido> //
+*LIV: <se eu for> descer <com ele> / &n [/1] nũ posso //
+*LET: <é> //
+*LIV: o seis // pegar //
+*GUI: &s [/1] não // porque <cê tá fazendo jogo de terminal> //
+*LET: <não> // <cê nũ tá fazendo jogo de> <terminal> //
+*RIC: <pode pôr esse aqui / Guiomar> //
+*LET: <sete oito nove> //
+*LIV: <ai / tô> //
+*GUI: <pode> //
+*RIC: <em cima dessa coisa> //
+*GUI: <o que cê quiser pôr> //
+*LET: <então / pra que cê quer o seis> // 
+*GUI: <yyyy> //
+*LET: e mesmo assim / cê nũ poderia / porque / &he /
+*LIV: sete oito nove / sete oito nove //
+*LET: / porque depende de ser eu que teria descartado // pr' ocê fazer seqüência //
+*LIV: entendi / Let / cê me <fdeu bonito> //
+*LET: <&he> +
+*GUI: piu //
+*LET: hhh o seu jogo tava arregaçado // eu nũ vou te ajugar mais não // hhh cê nũ pode pegar // cê tem um jogo / pa <fazer com isso> //
+*GUI: <ea só tá> jogando pa te arrebentar / Lívia //
+*LIV: tendi // é //
+*GUI: ea <finge de amiga> / mas / cê <vê / né> //
+*RAL: <foi por querer> / xxx //
+*LET: <a Lívia> que tá <&desfaze +
+*LIV: <sete> //
+*LET: <ou aí / o'> //
+*RAL: ela <usa d' ocê / a Lívia> //
+*LET: <aí / o'> // <põe esse aí / agora> //
+*LIV: ea tá [/2] ela tá usando <d' ocê / Lívia> //
+*LET: <agora descarta essa aqui> / <o'> //
+*RIC: <aqui o'> / depois do um vem o dois //
+*LET: hhh fica a dica / né hhh //
+*LIV: <a linguagem gestual nũ aparece> não <hhh> // 
+*GUI: <dois numeral> // <xxx> //
+*RAL: <talvez tenha que escrever> hhh //
+*RIC: neste exato momento +
+*GUI: quatro numeral / e' fez pongue de dora / o' //
+*RIC: <quem ganha é quem fica com a [/2] com a coisa> limpa //
+*RAL: <oito> //
+*LIV: <oito> //
+*GUI: <oito bola> //
+*RAL: quem ganha +  <é> //
+*LET: não / é só quem bate que ganha / né // só que <pr' ocê bater> /
+*RAL: <aí cê vê os pontos /  e quem entrega a última> perde os pontos // 
+*LIV: <é> // <nũ conta ponto não> //
+*LET: é // quem paga é quem entregou // nove bola //
+*RAL: é <tipo aposta> //
+*RIC: <viajei> //
+*RAL: <é um jogo> / do <futuro> //
+*GUI: <cê precisa> // <ela só descarta> coisa que cê nũ precisa //
+*LIV: <eu nũ> + <é / nũ> +
+*RAL: <ela sabe / ué> //
+*GUI: a Letícia <é espertinha demais> //
+*LET: <nũ dá> // <cê precisa dessa> aqui / né //
+*LIV: Nossa / e a memória fotográfica dessa [/1]
+*LET: uai / <tô olhando toda rodada se &o> +
+*RAL: <yyyy> //
+*LIV: / <dessa coisa linda> //
+*LET: uhn / cê não quer essa // senão cê nũ <vai fazer han> //
+*LIV: <tá / nũ quero> nada / dessa //
+*GUI: seis bambu //
+*RAL: <deixa eu> +
+*LIV: <seis bambu> //
+*LET: <só vale> [/2]  <só vale> aquela outra //
+*GUI: <piu> //
+*LIV: <piu> // cinq //
+*RAL: cinco //
+*LET: seis bambu //
+*LIV: &co [/1] como é que chama isso aqui mesmo //
+*RAL: cinco //
+*LIV: cinco +
+*LET: hhh <cinco é aquele número assim> //
+*RAL: <numeral> //
+*GUI: <numeral> //
+*LIV: numeral / numeral // tá //
+*LET: é // &nai [/1] <numeral> //
+*GUI: <agora é você / Lívia> //
+*RIC: <eu trouxe> uma cervejinha <pra vossuncê> //
+*LET: <gente> / <olha> //
+*GUI: <tudo bem / xxx> //
+*RAL: <que eu lhe pague> //
+*RIC: <o seu Raul> // eu <pus sua cerveja> //
+*LIV: <ah / &sei [/2] seis nũ vale> / né //
+*GUI: <seis bambu> //
+*RAL: <o Scarlet> //
+*GUI: <é> //
+*LIV: seis bambu //
+*RIC: <xxx do Scarlet> //
+*LET: <tô brincando> / do <Scarlet> // hhh
+*GUI: <quatro> numeral //
+*RIC: tem um pouquinho de espuma // <é que tem outro nome / né / que eu> nũ sei como que fala //
+*RAL: <elegante> // assim de cabeça pra baixo / vai //
+*LET: espumé //
+*RAL: espumé //
+*LET: nove numeral // é o terceiro que eu descarto // <parabéns pra mim> //
+*RIC: <Nossa / xxx> // 
+*RAL: quem reclama nũ ganha //
+*RIC: <essa cerveja nũ é Xingu> //
+*GUI: <cê quer> //
+*LIV: <não / eu nũ quero> não//
+*GUI: aí cê descarta <yyyy> //
+*LET: <eu lembro> / o que que cê nũ quer //
+*LIV: &nor [/1] <nortelos> //
+*LET: <o' o norte> / o' / de quem que é // vale nada //
+*LIV: Nossa / tá parecendo que tem uma luz / aqui / o' //
+*GUI: um hhh //
+*RAL: é uma luz que vem do fundo //
+*LET: hhh o cheirinho / né //
+*RAL: deixa <eu ver o que que é aqui> //
+*LIV: <pior que eu só posso> comprar o que a Let me descartar //
+*RAL: não / cê pode comprar o que eu mandar <aqui> //
+*LET: <não> //
+*GUI: <a nũ ser> / <se ocê> +
+*LIV: <pra completar um jogo> //
+*LET: se for pra esse jogo aqui / cê pode comprar qualquer um que descartar // agora / pros &outro [/2] pros outros sim // <só que eu nũ / tenho essas aí>+
+*LIV: <então pára de> olhar agora //
+*LET: <tá bom> hhh //
+*LIV: não me não <me ajuda mais> //  
+*LET: majongue //

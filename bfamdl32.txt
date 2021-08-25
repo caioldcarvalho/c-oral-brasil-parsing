@@ -1,0 +1,202 @@
+﻿
+*BAL: tá // então agora / que a gente configurou / nũ tem nada piscando + que toda vez que tiver alguma coisa piscando / é que a gente tem que selecionar alguma coisa / né //
+*BMR: tá //
+*BAL: configuramos o preset três / dá um stop / aí cê vai sair e vai voltar pra tela inicial //
+*BMR: <hum hum> //
+*BAL: <certo> //
+*BMR: e sempre que eu &f [/3] que eu for gravar / eu vou usar nesse // nesse / "preset três" //
+*BAL: qual &e +
+*BMR: <tá> //
+*BAL: <com a configuração que a gente> fez //
+*BMR: <sei> // hum hum //
+*BAL: põe pa gravar // <fala qualquer bobagem> //
+*BMR: <hum hum> // mas nũ vai gravar //
+*BAL: <ah> / ele não tá gravando / não / &n +
+*BMR: <tá> +
+*BAL: &p [/1] tá vendo // porque nũ tá fazendo nada aqui //
+*BMR: <e também / a gente nũ> colocou o microfone interno / né //
+*BAL: <então a gente pára> //
+*BMR: ou colocou //
+*BAL: ah / o microfone interno é esse aqui //
+*BMR: então / mas a gente nũ configurou / pra usar ele //
+*BAL: yyyy // era o microfone interno // "menu" //
+*BMR: ou configurou // eu nũ lembro //
+*BAL: então vamo ver / vão voltar //
+*BMR: uhn // é / porque tava só no microfone / né //
+*BAL: ai // a gente fez a maior cagada //
+*BMR: por quê //
+*BAL: quando sai / nũ é "stop" // é "menu" de novo //
+*BMR: <aí> +
+*BAL: <todas> as configurações que a gente fez / <foram> /
+*BMR: <ahn> // <perdidas> //
+*BAL: / <perdidas> // isso // <tá bom> / mas enfim //
+*BMR: tá //
+*BAL: a única alteração básica que eu queria te mostrar mesmo / eu vou botar em microfone interno pra gente poder gravar //
+*BMR: hum hum // e pra sair //
+*BAL: "menu" //
+*BMR: <tá> //
+*BAL: <tanto> que ele vai aparecer "completed" / quer ver / a' lá // tá / tá / beleza / "oquei" / "enter" / aí ce põe no menu / "completed" //
+*BMR: hum hum //
+*BAL: então agora / fala qualquer coisa // a' lá / tá vendo //
+*BMR: tá //
+*BAL: aí já é + a gente tem que diminuir // <pra falar> //
+*BMR: <mas isso aqui eu nũ vou> saber mexer não //
+*BAL: não / isso aqui é só &aument [/3] é só cê ver // se tiver no vermelho / diminui //
+*BMR: uhn // tá //
+*BAL: e aí a gente tem que fazer ]/3] tem que ficar testando // tá vendo //
+*BMR: <hum hum> //
+*BAL: <&quan> [/1] se a gente ficou &falan [/4] num tom de voz normal / chegar no vermelho / o negócio é / <diminuir> //
+*BMR: <diminuir> // tá //
+*BAL: agora / cê tá vendo que agora a gente tá falando / <mas sempre> &pro [/3] mas sempre +
+*BMR: e nũ <chega / né> //
+*BAL: hhh //
+*BMR: e isso eu olho antes de gravar / né //
+*BAL: não / &he / cê dá um pause aqui / o' // cê pode &p [/3] cê pode / ao invés de simplesmente começar a gravar pra fazer isso / cê pode dar um pause /
+*BMR: hum hum //
+*BAL: / que ele já vai tar / armado //
+*BMR: mas o que que significa / quando chega no vermelho //
+*BAL: <é porque estourou> //
+*BMR: <é que  vai ficar> +
+*BAL: então no WinPitch vai + sabe quando tá aquelas linhas assim // e aí passa //
+*BMR: hum hum //
+*BAL: então cê nũ vai &en [/1] conseguir entender // vai distorcer o som //
+*BMR: ah / tá //
+*BAL: então cê aperta um pause / antes de começar a gravar / e aí cê já vai poder medir como é que tá a intensidade // e cê tá vendo / que aqui ele tá saindo só num canal / porque tá no mono // porque se tivesse no estéreo / &tassa [/1] taria as duas linhazinhas //
+*BMR: hum hum //
+*BAL: e agora põe pa gravar então // <já que> +
+*BMR: <e esse> aqui / desse lado //
+*BAL: é / porque tá mostrando que tá gravando //
+*BMR: tá //
+*BAL: que &v [/2] ou que vai gravar // aperta o rec / então / pra começar / <efetivamente> //
+*BMR: <hum hum> // tá // ah / <nũ tava> gravando //
+*BAL: <o'> // não / tava só no pause // tanto <que agora ele nũ tá mais> piscando / tá //
+*BMR: <ah / tá / tá> //
+*BAL: né // então / a gente já gravou um bom bocadinho / aperta o stop //
+*BMR: hum hum // ah / não // pra terminar mesmo / <né> //
+*BAL: <isso> //
+*BMR: <tá> //
+*BAL: e dá um play aí pra gente ouvir esse arquivo //
+*BMR: hum hum //
+*BAL: e olha a qualidade //
+*BMR: hum hum //
+*BAL: pode parar //
+*BMR: é // tem também porque a gente tá aqui / né //
+*BAL: hum hum //
+*BMR: porque fora // já gravou fora / com ele //
+*BAL: a &ge [/2] não / a gente gravou na [/1] na sala do Tommaso / e <ficou muito bacana> //
+*BMR: <e como é que &f> + ficou bom //
+*BAL: hum hum // tá // &he / pra apagar / alguma gravação //
+*BMR: uhn //
+*BAL: que /  então a gente tem várias opções // se apagar uma por uma / apagar todas / ou simplesmente formatar a memória //
+*BMR: hum hum //
+*BAL: pra isso / a gente vai usar o &men [/2] o mesmo menu que é aqui / só que a gente vai usar a função de baixo // toda vez que tiver essa coisinha branca /
+*BMR: uhn //
+*BAL: / é porque tem que usar esse shift // como se fosse no computador // por exemplo / tá lá // "á" / não / "um" / e em cima tá uma exclamação //   p' cê ver [/1] &e [/1] usar a exclamação / tem que apertar <"shift" / né> //
+*BMR: <ah / tá> // <hum hum> //
+*BAL: <mesma coisa> //
+*BMR: tá //
+*BAL: então aperta o shift / "edit" // que tá do ladinho / porque o <edit tá de lá> //
+*BMR: <hum hum> //
+*BAL: isso // tá // isso // tá dado // "track erase" / <que é pra uma> só //
+*BMR: <hum hum> //
+*BAL: vai passando pra frente p' cê ver as opções // marca [/1] a [/1] marca / &he / de gravação / que eu ainda vou ter que ler o que que é / acho que <isso nem> vai ser importante pra gente não //
+*BMR: <tá> // ah / pra / tirar tudo //
+*BAL: todas as marcas //
+*BMR: ah / tá // não <todos os> +
+*BAL: <"emecá" / "emecá"> //
+*BMR: tá //
+*BAL: tá vendo //
+*BMR: hum hum //
+*BAL: aperta pra frente / "format" // que aí que <é pra apagar tudo> //
+*BMR: <ah / que aí apagam> todos + <hum hum> //
+*BAL: <e aí> / como é que cê vai executar isso // "enter" //
+*BMR: hum hum // tá //
+*BAL: hum hum //
+*BMR: "oquei" //
+*BAL: "oquei" // executando / <daqui a pouco> vai aparecer o [/3] vai aparecer simplesmente zero zero e o tanto de tempo restante que tem //
+*BMR: <hum hum> // tá / tá // assim / aqui eu tô entendendo / mas hhh // acho que mais uma vez / assim hhh //
+*BAL: hhh cê lê em inglês //
+*BMR: ahn //
+*BAL: cê lê / em <inglês> //
+*BMR: <hum hum> //
+*BAL: tá // então eu vou + não / eu nũ sei / se vale a pena <você ler isso aqui / que isso aqui> &t [/1] provavelmente tá muito técnico / né //
+*BMR: <é / talvez nũ> + hum hum //
+*BAL: eu posso fazer assim / <&he> +
+*BMR: <tipo> / "Como perder o medo" hhh // lembra / daquele que cê fez / "Como perder o medo do WinPitch" //
+*BAL: <uhn> //
+*BMR: <agora> faz a hhh +
+*BAL: "Como perder <o medo do"> [/1] "do gravador Marantz" //
+*BMR: <"Como perder o> medo do gravador" //
+*BAL: é / pode ser uma [/3] pode ser uma também // eu faço um manualzinho pra todo mundo //
+*BMR: é / porque / né //
+*BAL: hum hum //
+*BMR: a [/1] <a Bel vai usar também> //
+*BAL: <e aqui ele veio com alguns> &blo [/2] alguns cabos / que isso aqui é só conexão de [/7] que aqui nem é na hora de gravar mais não // agora tem que ver aqui que parafuso é esse // que é para alguma coisa com certeza //
+*BMR: hum hum //
+*BAL: isso aqui ele já veio nele / eu &q [/2] eu que / instalei / né / o cordãozinho //
+*BMR: hum hum //
+*BAL: isso aqui / é o line out / né // cê &cli [/1] põe aqui / cê insere isso aqui / tipo / num aparelho de som / ou num / <gravador> //
+*BMR: <ah> / numa coisa grande //
+*BAL: é //
+*BMR: <hum hum> //
+*BAL: <essas> coisas assim // "remote" // &he / controle remoto //
+*BMR: "controle remoto" hhh //
+*BAL: é / tem [/1] é porque tem uns aparelhinhos / que são + por exemplo / supõe que é isso aqui // cê liga um cabo / aí cê vai &as [/1] controlando "play" "pause" / aumentar o volume / por aqui //
+*BMR: ahn hhh //
+*BAL: só que / é / controle remoto / com fio //
+*BMR: uhn //
+*BAL: cê já viu &tev [/4] cê já viu televisão assim //
+*BMR: não //
+*BAL: eu já //
+*BMR: <nunca hhh> //
+*BAL: <é muito> bacana //
+*BMR: "bacana" // então pra quê controle remoto //
+*BAL: meu bem / na [/1] &qua [/1] na época que nũ existia o infravermelho //
+*BMR: ah / tá // então / isso / <ce viu há muito tempo atrás / né hhh> //
+*BAL: <mil-oitocentos-e> / e / vovó / gostosa // ah / então // basicamente é isso //
+*BMR: tá //
+*BAL: alguma dúvida //
+*BMR: não //
+*BAL: então tá // então agora vamo / testar se cê aprendeu alguma coisa //
+*BMR: tá //
+*BAL: eu quero fazer uma gravação / em estéreo / usando os microfones externos //
+*BMR: hum hum // tá //
+*BAL: então cê [/1] primeiro cê vai ter que / escolher um preset / <né> //
+*BMR: <isso> //
+*BAL: quando a gente usar a bateria / a gente nũ vai precisar fazer mais todas essas configurações // a gente vai poder guardar e pronto //
+*BMR: hum hum //
+*BAL: aí eu vou / por exemplo / boto uma &eti [/2] um [/1] uma [/1] uma etiquetinha // gravação / estéreo com microfones externos //
+*BMR: uhn //
+*BAL: preset &t [/1] tal // gravação mono / microfone externo // tal // uma gravação com microfone interno // tal // beleza //
+*BMR: hum hum //
+*BAL: então tá / eu quero fazer [/3] eu quero fazer uma gravação / nos microfones externos /
+*BMR: hum hum //
+*BAL: / em estéreo //
+*BMR: tá // aí eu vou em "menu" /
+*BAL: hum hum //
+*BMR: / e +
+*BAL: a gente já configurou esse <preset / né> / a gente nũ quer configurar ele de novo //
+*BMR: <pois é> //
+*BAL: então escolhe outro //
+*BMR: tá //
+*BAL: por exemplo //
+*BMR: hum hum // &he / "enter" /
+*BAL: hum hum //
+*BMR: / &he / microfone externo / nũ é //
+*BAL: isso //
+*BMR: tá // que é esse //
+*BAL: hum hum //
+*BMR: que mais //
+*BAL: estéreo //
+*BMR: tá / isso aqui é assim mesmo //
+*BAL: não / isso aí já é a saída do <gravador> //
+*BMR: <tá> // hum hum // "data oquei" / aqui também tá oquei // aqui //
+*BAL: hum hum //
+*BMR: hum hum //
+*BAL: isto // <já fez as confiracunções> cê precisa //
+*BMR: <aí o resto> + <já> //
+*BAL: <tá oquei> // então &ago [/1] agora / como é que cê vai salvar essas configurações //
+*BMR: "menu" //
+*BAL: isso // <e agora presta> atenção no tempo //
+*BMR: <hum hum> //
+

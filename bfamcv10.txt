@@ -1,0 +1,159 @@
+﻿
+*TIT: "<vai balão que desce> cai cai cai cai balão que <sobe>"
+*ONO: <eu &que [/2] eu &que [/2] eu queria ir lá no> + <ah / eu nũ> vou pegar quatro ônibus pra ir <lá não> //
+*TIT: "<e o vento> <leva>"
+*CAR: <faz / isso> de ônibus / pai // senhor vai penar igual um +
+*ONO: difícil demais // mas c' ocê e' nũ vai / eu / falo co Antônio Carlos todo dia / ele nem dá a mínima //
+*CAR: não / sô // vou mexer com isso não //
+*ONO: lugar nenhum / ninguém dá a mínima // sua mãe / ninguém dá a <mínima> //
+*CAR: <a mãe> / podia levar o senhor lá / né / pai //
+*ONO: não // tem &b +
+*CAR: <na cadeira de roda / vai levando o senhor> //
+*ONO: <a sua mãe quer ir / ué> //
+*TIT: <uai / se ocê cês emprestar> a chave / eu vou / ué // ah / o [/1] o Itamar botou uma chave aqui / bobo //
+*CAR: <tá bom / pai / esse negócio> / sô //
+*TIT: <eu vou com ele> //
+*CAR: tá bom /  senhor já foi lá um monte de vez // pra quê //
+*ONO: <quê> //
+*CAR: <ir> [/1] ficar indo lá //
+*ONO: vai queimar c' essa gordura / tá //
+*TIT: tô tirando que na hora que for botar o frango / Nofre / <yyyy> +
+*ONO: <o Antônio Carlos> tá aí hoje não // o Antônio <Carlos tá aí [/2] tá aí não //
+*TIT: <vai subir / meu filho> //
+*ONO: <tá> / Carlos Henrique //
+*CAR: ahn //
+*ONO: Antônio Carlos tá lá po sogro dele / né //
+*CAR: pai / Antônio Carlos tá fazendo uns negócio dele aí / as reuniões dele / uai // uns negócio / ele nũ tem reunião //
+*ONO: deve tá lá po / chego dele //
+*TIT: que dia <que nós> vamo armar a cama / Carlão //
+*ONO: <tô> +
+*CAR: como é que é //
+*TIT: que dia que nós vamo armar a cama aí //
+*ONO: eu pensei que <cê tava lá / Toninho> //
+*CAR: <que dia que quem> //
+*ONO: &quan <&ma [/1] falei ca Titina> +
+*TIT: vamo armar a cama aí //
+*ONO: falei pa Titina <assim / o'> //
+*CAR: <vou armar> um dia desse / ué //
+*ONO: pensei que cê ia lá hoje // lá no [/1] no Antônio xxx //
+*TON: uai //
+*CAR: pai / sior podia sior podia buscar pra nós um [/1] um [/1] uma Coca-Cola / senhor nũ anima não //
+*ONO: uai / tem que ser gelada / porque aqui / tem uma  quente aqui / mas eu / cheguei com ela <agora> //
+*TIT: <tô igual> / &b [/1] <palhaça> //
+*ONO: <tem que comprar gelada / lá> //
+*TIT: <abro a &ge a &p [/2] a geladeira cinqüenta> vez <e nũ sei que que eu quero> //
+*CAR: <então busca pra nós> //
+*ONO: <tem que ver / uai xxx> //
+*TIT: agora que eu vi //  que que eu quero //
+*ONO: vou / <uai> //
+*TIT: <misericórdia> //
+*XXA: <yyyy> //
+*CAR: <vamo almoçar> comigo / sô // vamo almoçar com nós aqui / sô //
+*XXA: <ver> o que a mulher tem que <fazer> //
+*CAR: <&su> sua mulher tá aonde // liga pra ela // pega o meu telefone aqui / o' // se ea nũ tiver aí / cê &li +
+*XXA: se ea tiver lá / ea tá esperando o João Vítor // o João Vítor sair //  João Vítor / yyyy // ô / infelízio // ahn //
+*CAR: ô infelízio //
+*XXA: yyyy //
+*ONO: yyyy //
+*CAR: sior vai buscar a Coca-Cola pra nós / pai //
+*TIT: picar essa cebola pra mim / cê pica / Nofre //
+*CAR: cê vai buscar a Coca-Cola pra nós / pai //
+*ONO: busco / uai // <tem [/1] tem> picar / ali / a cebola pa sua mãe //
+*CAR: <então busca / lá> //
+*TIT: não / Nofre / é que se &f [/3] que se for / sair / <cê pode ir> //
+*CAR: <hum / sior vai picar> a &Coca &he / o negócio / ou vai buscar a Coca-Cola //
+*ONO: eu busco / uai // tô +
+*CAR: ham //
+*ONO: vou buscar / uai //
+*XXA: <yyyy> //
+*TIT: <cadê o prego [/2] o [/1] o &gar [/2] o [/1] a + nts //  onde é que tá o garfo / que eu tava com ele //
+*CAR: busca umas duas ou três / grandona / gelada // pra nós / tomar <Coca-Cola até> //
+*ONO: <mas tem que ser> [/3] tem que ser gelada / né //
+*CAR: é / ué // gelada / mesmo //  tô falando //
+*TIT: <Onofre> //
+*ONO: <duas dá / não> //
+*CAR: ahn //
+*ONO: duas dá / né //
+*TIT: <fala com ele que é só> pa comprar / Carlos Henrique / <nũ> +
+*CAR: <duas dão> //
+*XXA: <ô / capetão> //
+*CAR: ô / capetão // entra aí // tava esperando ocê / sô //
+*ONO: deu oito quilo de carne / Carlos Henrique / deu quarenta de lucro //  lingüiça agora ficou boa demais / <sô> //
+*CAR: <sior> acaba tomando prejuízo / sô // nũ mexe com isso <não> //
+*ONO: <o' p' cê ver> //
+*TIT: <hhh> quê //
+*ONO: <ô Titi / diz ele que tá tomando prejuízo> // <o' p' cê ver> // diz ele que eu tomei prejuízo ca lingüíça //
+*TIT: fez o quê //
+*ONO: diz ele que eu tomei prejuízo com a lingüiça //  tomei prejuízo // com a lingüiça //
+*TIT: o' / se for do jeito que cê tá falando aí / nũ tomou não //
+*ONO: o' / se for + ué // mas que que jeito que é // nũ tem outro jeito não // eu recebi o [/1] na hora // &e eu nũ tô vendendo fiado / oito quilo deu onze / a nove / faz a conta aí / pra ver // oito quilo / a &n [/2] a / nove // a nove real / e deu onze / oito quilo deu onze // oito vez quato / trinta-e-dois / oito vez dois / dezesseis / &trinta-e-s [/1] e / trinta-e-três e + oito vez quato / trinta-e-dois / oito vez dois / dezesseis / trinta-e-três e + oito vez quato / oito vez / &t + hhh oito + oito &ve [/1] + ué // oito vez / oito // oito vez quato / trinta-e-dois // agora / oito vez / dois / dezesseis // trinta-e-três e vinte // trinta-e-três e sessenta //  mais &q mais dez da tripa / trinta-e / e-três e sessenta / com dez / quarenta-e-três e sessenta / que ficou //  deu noventa // então / deu prejuízo / uai // deu // deu um prejuízo cê precisa de ver / que demônio que é / uai // porque ninguém quer trabalhar não / Carlos Henrique // ninguém quer trabalhar // que o porco baixou demais / direto // <quato &re> +
+*CAR: <vamo vamo> [/1] vamo esperar um pouquinho / xxx / daqui uns dia o sior / nũ arruma um lugar / belezinha pra nós fazer //
+*ONO: se fizer <aquea> +
+*CAR: <aí abre> um [/2] abre aquela empresa // tem uma empresa agora individual / sabia // sior pode abrir / pode ter +
+*TIT: pera aí / meu filho //
+*CAR: aí ele <paga o ieneesseesse do senhor direitinho> //
+*TIT: <xxx o' minha gordura aqui / &m + <pera aí / meu filho> //
+*ONO: se eu ranjasse um lote pra nós / <lá / ué / yyyy lá> //
+*CAR: <tira nota fiscal> / tira tudo //
+*TIT: <Vixe'> //
+*ONO: fazer defumador lá / ué / no lote //
+*CAR: quer ajuda aí / mãe //
+*TIT: hein //
+*CAR: quer ajuda //
+*ONO: <cê nũ vai &co> [/4] cê nũ vai comprar o lote / <não> //
+*TIT: <ué / cê> + <tem> que judar / <né> //
+*ONO: <cê nũ> vai arrumar o lote lá pra nós não / já tá / &d metade tá duro lá / já // tá firminho o lote lá / que cê tá olhando //
+*CAR: ajuda aí / pai // pra <pra> +
+*ONO: <mas nós foi lá / ué> //
+*TIT: <e' tá e' vai> virar o frango pra mim / meu filho //
+*CAR: tá bonito esse <frango> //
+*ONO: <baixa> aqui que tá <queimando> //
+*TIT: <abaixei> / já //
+*CAR: <vou ligar> pa Renata <e chamar ela pra almoçar com nós> / nũ é //
+*TIT: <ahn> // <abaixei> //
+*ONO: <tá queimando xxx> // quê //
+*CAR: vou ligar pa Renata e chamar ela pra almoçar com a gente //
+*ONO: eu quero fazer lá / o defumador / sô // naquele canto <seu / lá> //
+*CAR: <defumador / não> // sior vai mexer com defumador mais não //
+*ONO: não / fresca só / então // só fresca / ué //
+*CAR: nós vamo pensar / o que nós vamo fazer // com calma //
+*ONO: vou combinar co Vardir / <se e' quiser que eu desça> //
+*TIT: <vem picar a cebola> / pra <mim / Nofre / por favor> //
+*ONO: <eu vou combinar co Vardir> // <se ele deixar eu descer lá para> baixo / eu vou descer //
+*TIT: <cê pica> //
+*CAR: a mãe falando //
+*ONO: vou levar os trem pra lá //
+*TIT: pica a cebola pra mim / filho //  quadriculadinho //
+*ONO: o' / se o Antônio Carlos nũ quiser que eu vou lá nem po Vardir / então e' quer que eu vou embora / então //
+*CAR: sior vai embora / pai //
+*TIT: tem muito <tempo que cê> nũ compra dessa massa de <tomate / aqui> //
+*ONO: <uai> // <eu vou> / uai // eu tô querendo ir embora mesmo // eu nũ vou embora é por [/2] é por [/2] &he / é / por causa d' ocês / não // porque ocês tá tudo bão / tá novo // por causa da sua mãe e a <Maria Eduarda> //
+*CAR: <ah / tá vendo> // isso aí é declaração de amor / mãe // <nũ vai> embora por causa da senhora //
+*TIT: <é> //
+*CAR: aí / tá vendo //
+*TIT: <é bão> //
+*ONO: <é / uai> // por causa dela e [/1] e o [/2] e a [/2] e a / Julia [/1] e a <Maria Eduarda> //
+*TIT: <ele ontem [/2] ele ontem &vi [/3] ele ontem virou pra mim e falou assim / eu sou ruim> mesmo / e nũ faço nada pr' ocê //
+*ONO: <a Maria Eduarda / eu nũ cheguei &a> [/4] eu cheguei onze <hora ontem> +
+*TIT: eu falei assim / ô meu filho // se ocê fosse ruim pra mim / eu tinha te dado um chute com minha perna direita / cê tava voando até hoje e nũ tinha chegado no lugar //  
+*ONO: eu cheguei <ontem> +
+*TIT: <ele começou> a relar o olho / pensando que eu tava falando <verdade / sabe> //
+*ONO: <eu cheguei ontem> onze <hora> +
+*CAR: <é mesmo> //
+*TIT: <aí> na hora que eu falei que é a perna direita / ele riu //
+*ONO: ô Carlão // <o trem> tá feio //
+*CAR: <ahn> //
+*ONO: es queria levar até o dinheiro da coleta ontem / sabia //
+*CAR: fiquei sabendo //
+*TIT: como é que é / Nofre //
+*ONO: queria &lev os / cara tá querendo [/2] tava querendo levar o dinheiro da coleta / uai // aí o padre falou hoje lá / uai //
+*CAR: é / eu fiquei sabendo / pai //
+*ONO: nũ tinha polícia lá / uai //
+*CAR: ahn //
+*TIT: agora / eu <acho que nũ pode fazer> / nada / sem ter +
+*ONO: <a polícia nũ foi não> //
+*CAR: não foi //
+*ONO: tinha umas quinhentas pessoa //
+*CAR: mas chamaram a polícia // se nũ chamaram / nũ tem [/2] ea nũ vai mesmo não // es nũ adivinham não / uai //
+*TIT: é / ué //
+

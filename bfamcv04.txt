@@ -1,0 +1,320 @@
+*LUC: [1] primeiro tem que tirar zerinho ou um // 
+*CEL: [2] a gente <devia ter jogado é Uno> // 
+*BRU: [3] <zerinho ou um> // 
+*CEL: [4] <Uno> é mais legal jogar // 
+*LUC: [5] Uno é sensacional / bicho // 
+*CEL: [6] <No'> // 
+*HEL: [7] <o quê> // 
+*CEL: [8] <que> burrice / hein // 
+*LUC: [9] não / <mas Uno é [/2] Uno> é meio caladão / bicho // 
+*HEL: [10] <por quê> // 
+*CEL: [11] é &m + [12] ah bom // [13] nada // 
+*BRU: [14] vamo tirar zerinho ou um pra ver / as duplas então / né // 
+*HEL: [15] tá bom // 
+*LUC: [16] claro // 
+*HEL: [17] eu nũ sei as regras não / tá // 
+*BRU: [18] tá // 
+*LUC: [19] tá // 
+*BRU: [20] <ze / ri / nho> ou / um // 
+*LUC: [21] <ze / ri> + 
+*BRU: [22] eu e Helô // [23] meninas contra homens // 
+*LUC: [24] as <meninas> contra os <meninos> // 
+*BRU: [25] <então tá> // [26] <o'> // [27] qual que cês querem // [28] cê gosta de verde // 
+*HEL: [29] blue // 
+*LUC: [30] hhh cê gosta <de verde> // 
+*CEL: [31] <eu gosto> <de verde> // 
+*BRU: [32] <cê quer o blue> // [33] é porque é só um // [34] não / é só um pra nós duas // 
+*HEL: [35] ah // [36] pode ser // 
+*BRU: [37] tá // [38] e + [39] cadê o início // [40] qual que é o de vocês // 
+*CEL: [41] verde // 
+*HEL: [42] ô // [43] esse jogo é <novo> // 
+*BRU: [44] <eu sempre> jogo com o verde // [45] eu sempre ganho // 
+*HEL: [46] é o tabuleiro novo // 
+*BRU: [47] não / sô / &j [/1] depois já tem outro // 
+*CEL: [48] bom // 
+*HEL: [49] Nossa / vão mudar pro verde hhh // 
+*BRU: [50] eu sempre ganho // 
+*CEL: [51] <gente> // 
+*HEL: [52] <por precaução hhh> // 
+*CEL: [53] <a cor não interfere nas coisa> // [54] pelo amor de Deus // [55] <vamo lá> // 
+*LUC: [56] <yyyy hhh> // 
+*CEL: [57] <né> // 
+*BRU: [58] <é> // [59] <isso> é um sinal // [60] aqui o' // [61] aí / tira o [/1] o cartão // [62] <primeiro cê> vai jogar o dado // 
+*HEL: [63] <tá> // 
+*BRU: [64] <tira o cartão> // 
+*HEL: [65] <tá> // [66] <é pessoa> / objeto / ação / lazer // 
+*BRU: [67] <aí> + [68] é // [69] aí dependendo da letra / <dependendo da letra se cê parar ó / aí vai lá> // 
+*LUC: [70] <a regra principal [/3] a regra principal do Imagem e Ação> <é> // 
+*BRU: [71] <objeto> // 
+*HEL: [72] <pera aí> // [73] pessoa <lugar ou animal> // 
+*LUC: [74] <se na primeira vez que cê falou uma palavra / não> for / nunca mais vai ser / entendeu // 
+*HEL: [75] objeto eu acho que yyyy> // [76] ahn // 
+*BRU: [77] não // [78] não // [79] o Lucas tá inventando // [80] o' hhh // [81] <vamo escolher> // 
+*LUC: [82] <hhh é porque tem uma> moçada que fica falando a mesma palavra / o tempo inteiro / <xxx> // 
+*HEL: [83] <ah / tá hhh> // 
+*CEL: [84] <yyyy> + 
+*HEL: [85] <entendi> // 
+*CEL: [86] <é> // 
+*LUC: [87] <e nũ chega a lugar nenhum> // 
+*BRU: [88] <hhh aí passa um tiquim fala de novo / né> // 
+*HEL: [89] <ham ham> // [90] <a pessoa &fa> + 
+*LUC: [91] <é> // 
+*HEL: [92] <ah> // 
+*LUC: [93] <é> // 
+*HEL: [94] pessoa faz que não // 
+*LUC: [95] é // 
+*HEL: [96] pois é // [97] o que que <pode> <que que nũ pode> // 
+*LUC: [98] <xxx> // 
+*BRU: [99] <mas aí / a> gente escolhe / qual // [100] o laranja / ou o amarelo // [101] que aí cê vai sempre escolher do lado <amarelo> // 
+*HEL: [102] <por quê> // 
+*BRU: [103] <por exemplo> + [104] é porque é igual / entendeu // [105] o lado amarelo / o lado laranja // 
+*HEL: [106] uhn // 
+*CEL: [107] uhn // 
+*BRU: [108] aí / a gente escolhe uma cor pra todo mundo ver sempre aquela cor // 
+*HEL: [109] mas isso muda alguma coisa // 
+*BRU: [110] muda // 
+*HEL: [111] bom // [112] tá // [113] mas o + [114] esse é novo // [115] eu [/1] eu <conheço> o velho Imagem e <Ação> // 
+*BRU: [116] <é> [117] <tá> // [118] todo mundo olha / por exemplo / do lado amarelo // 
+*CEL: [119] <tá> // 
+*HEL: [120] <tá> // 
+*CEL: [121] e quem for daltônico // 
+*BRU: [122] não / sabe por quê // 
+*HEL: [123] hhh que <saco> // 
+*BRU: [124] <porque> senão / cê vai pegar lá e vai falar assim / ah / <esse aqui tem asterisco> // 
+*HEL: [125] <eu nũ vou jogar não hhh> // 
+*BRU: [126] é porque assim / quando tem asterisco / é pra todo mundo // 
+*HEL: [127] sim / <todos jogam> // 
+*BRU: [128] <aqui cê olha e> fala assim / ah / tá bom // [129] esse asterisco <é porque é pra todo mundo> // 
+*HEL: [130] <ah> // [131] <é porque depois / cê olha na cor> // 
+*BRU: [132] <depois só pro meu grupo> // [133] <aí cê> escolhe o laranja // 
+*HEL: [134] <hum hum> // 
+*BRU: [135] <então se ocê tem uma cor predefinida> / cê nũ vai + 
+*CEL: [136] <ah> // 
+*HEL: [137] tá / então / <só amarelo> // 
+*CEL: [138] <então tá / amarelo> // 
+*HEL: [139] é // [140] tá // 
+*BRU: [141] amarelo // 
+*LUC: [142] beleza <xxx> // 
+*BRU: [143] <tá> // 
+*LUC: [144] <posso> // 
+*BRU: [145] <e> + 
+*LUC: [146] e tem um dadinho diferente ali // 
+*BRU: [147] esse aqui não // [148] porque esse aqui é quando for desenhar // [149] aí / o [/1] no jogo do desenho / por exemplo / um / cê nũ pode tirar o [/1] o [/1] <o> [/1] o lápis do papel / <o outro tem que desenhar com a mão> esquerda // 
+*HEL: [150] <não / nós nũ> vão fazer o desenho // 
+*LUC: [151] <eu posso desenhar ao invés de fazer mímica> // 
+*HEL: [152] <não> // 
+*BRU: [153] <tem que resolver antes> // [154] <ou só> desenho / <ou só mímica> // 
+*LUC: [155] <não> // [156] <nũ pode ser> + [157] <tem que> ser tudo a mesma coisa // 
+*HEL: [158] não // <só a só> a mímica / <né> // 
+*LUC: [159] <então tá bom> // [160] <então> tá bom // 
+*BRU: [161] é // 
+*HEL: [162] mas esse é novo / no <que eu jogava nũ tinha isso não> // 
+*CEL: [163] <eu já vou avisar o seguinte> // [164] eu &s [/2] eu adivinho mímica muito fácil // [165] mas cê nunca vai adivinhar nenhuma minha / porque eu nũ tenho a mínima noção // [166] então // 
+*LUC: [167] então beleza // 
+*CEL: [168] a nossa chance é / pontuar assim // 
+*BRU: [169] tem mais uma coisa // [170] ah / cê não <pode falar> nada / tipo / se for + 
+*LUC: [171] <ham ham> // 
+*BRU: [172] não pode falar nada // [173] nenhum som // 
+*HEL: [174] nũ pode apontar <pra nada que tem> + 
+*BRU: [175] <se for> / um passarinho / cê nũ pode fazer / hhh // [176] nũ pode // 
+*HEL: [177] hum hum // 
+*BRU: [178] cê nũ pode fazer &a [/1] nenhum som // 
+*LUC: [179] rapidim // 
+*BRU: [180] e + 
+*LUC: [181] vai explicando aí // 
+*BRU: [182] tá // [183] e / tem outra coisa também // [184] se / for uma mesa / por exemplo / cê não pode fazer assim // [185] cê não pode aprontar [/1] apontar pra mesa // [186] tá // 
+*HEL: [187] tá // [188] pra / nenhum <objeto> / que tenha // 
+*BRU: [189] <nũ pode> // [190] se / eu disser [/2] se eu [/2] se eu disser / “cadeira” / e for “poltrona” / é similar / né // [191] cê pode fazer assim // [192] que isso é <similar> // 
+*HEL: [193] <tá> // [194] e assim // 
+*BRU: [195] não // [196] assim // 
+*HEL: [197] &qu [/1] qual que é a diferença disso pra isso // 
+*BRU: [198] é porque é / &he / 
+*HEL: [199] convenção // 
+*BRU: [200] / <padrão> // 
+*LUC: [201] <como é> que nũ pode // 
+*HEL: [202] uai / cê pode fazer assim / mas cê nũ pode fazer assim // 
+*LUC: [203] <não> // 
+*BRU: [204] <não / é assim> // 
+*HEL: [205] <e se num momento> + 
+*BRU: [206] <pra ser> similar é assim // 
+*CEL: [207] ah / mas isso é + 
+*HEL: [208] <tá> / 
+*LUC: [209] <puritana> // 
+*HEL: [210] <mas e se> num impulso você <faz> assim // 
+*LUC: [211] <xxx> // 
+*HEL: [212] <aí impugnado> // 
+*BRU: [213] <tá / cê só nũ pode> falar // 
+*HEL: [214] <é> // 
+*LUC: [215] <é> // 
+*HEL: [216] <tá> // 
+*LUC: [217] é // 
+*CEL: [218] <é> // 
+*LUC: [219] <ah> // [220] não / cê só nũ &p + [221] e nũ pode falar e nũ pode <apontar o bagulho> // 
+*HEL: [222] <cê &po [/2] cê pode fazer um formato / de uma letra> // 
+*BRU: [223] <não> // 
+*LUC: [224] <tipo> + 
+*BRU: [225] <tá certo> // 
+*LUC: [226] <assim nũ dá> // [227] <mas tipo> + 
+*HEL: [228] <uhn> // 
+*BRU: [229] não / mas cê pode [/2] tipo / &he / cê pode fazer assim // [230] &he / <“gato”> / por exemplo // 
+*CEL: [231] cê pode ter feito <LIBRAS> // 
+*LUC: [232] cê pode <hhh> + 
+*BRU: [233] <hhh> não // [234] <tipo / se é um [/1] um gato> // [235] gato / faz isso / nada // [236] se é um rato // [237] cê faz assim + [238] a &primei + [239] isso aqui / se ocê faz / é a primeira letra // [240] aí cê faz assim / erre // [241] um / rato // [242] erre // 
+*HEL: [243] <hhh> não / pera aí / eu nũ entendi <o> “um” // 
+*LUC: [244] <hum hum> // 
+*BRU: [245] <tendeu> // [246] se ocê vai partir e <falar> cada letra // 
+*HEL: [247] <uhn> // 
+*BRU: [248] cê vai falar / “um” / que é a primeira <&pa [/3] a primeira> letra da <palavra> // 
+*HEL: [249] <hum hum> // [250] <hum hum> // 
+*BRU: [251] daí / cê faz o seguinte // [252] sei lá / “rato” // [253] aí eu falo / “rato” // [254] cê faz isso // [255] “um” / <é erre> // 
+*LUC: [256] <isso foi um> rato // 
+*BRU: [257] aí depois cê fala “a” // [258] &he + 
+*HEL: [259] não / mas isso / equivale / <à primeira palavra / ou à primeira letra> // 
+*BRU: [260] à <primeira / letra> // 
+*LUC: [261] <à primeira letra> // 
+*BRU: [262] <à primeira letra> // 
+*LUC: [263] <primeira> letra // 
+*HEL: [264] <mas> + [265] ah / <primeiro a letra> / depois cê identifica a palavra // 
+*BRU: [266] <primeira letra> // 
+*LUC: [267] <é> // 
+*HEL: [268] <hum hum> // 
+*BRU: [269] <e se for uma palavra composta / cê faz assim> // 
+*LUC: [270] <se ocê [/2] se ocê / decidir> // 
+*HEL: [271] <tendi> // [272] <ô gente / eu nũ vou lembrar> <desses trem não> // 
+*BRU: [273] <tendeu> // [274] <tipo se for> / “homem-<aranha”> // 
+*HEL: [275] <tá> // 
+*LUC: [276] <ah [/1] ah / é> // 
+*BRU: [277] aí / cê faz> + 
+*LUC: [278] e [/1] e no começo> cê pode fazer assim / quantas palavras que são o' // [279] aí cê / tipo / dá a &irre [/2] a real de quantas palavras que são // 
+*HEL: [280] <ah> // 
+*BRU: [281] <aí cê faz partido> // 
+*HEL: [282] <já facilita horrores> // 
+*BRU: [283] não // 
+*LUC: [284] <yyyy> // 
+*BRU: [285] <se for> uma palavra composta / né // [286] por exemplo / duas palavras cê faz assim // [287] <aí> + 
+*HEL: [288] <com> hífen / por exemplo // 
+*BRU: [289] é // [290] aí / tipo / <“homem>-aranha”> // 
+*HEL: [291] <&tip> + [292] <hum hum> // 
+*BRU: [293] <aí> cê faz um homem / aí a pessoa fala / homem // [294] cê faz isso / primeira // [295] aí / depois + 
+*HEL: [296] <e pr' ocê> falar que tá certo / isso // 
+*BRU: [297] <ah / não> // 
+*CEL: [298] e palavras compostas que não &s + [299] ah / sei lá // 
+*BRU: [300] <é> // 
+*CEL: [301] <qualquer coisa> // 
+*BRU: [302] aí a gente vê na hora // [303] então / amarelo / né // 
+*HEL: [304] tá // 
+*BRU: [305] nũ + 
+*HEL: [306] mas aqui // 
+*BRU: [307] nós duas // 
+*LUC: [308] <yyyy> // 
+*HEL: [309] <se no &a> + [310] se alguém se / enrola / assim // [311] aí / <tipo / pode hhh> + 
+*LUC: [312] <se alguém se enrola hhh> // 
+*BRU: [313] perde // 
+*HEL: [314] não // [315] mas <hhh> + 
+*LUC: [316] <acaba o tempo> // 
+*BRU: [317] <hhh é> // 
+*HEL: [318] <hhh que saco> // 
+*LUC: [319] <yyyy> // 
+*BRU: [320] acaba <o tempo> // 
+*HEL: [321] <não / mas aí hhh> + [322] <e se precisar de um esclarecimento> / <assim / no> meio do negócio hhh // 
+*CEL: [323] <aí é o tempo que tá aí> // 
+*BRU: [324] <tá aqui> // 
+*LUC: [325] <não / o tempo é a> ampulheta / sô // 
+*CEL: [326] <pode pôr> + [327] pode colocar o tempo <num lugar muito visível> // 
+*HEL: [328] <isso aqui é pra / divisão> // 
+*LUC: [329] é // 
+*CEL: [330] yyyy + 
+*LUC: [331] <aqui> // 
+*BRU: [332] <é> // [333] porque / isso dá briga // 
+*LUC: [334] o tempo dá briga // 
+*HEL: [335] No' / velho // [336] pera aí / primeira coisa então + [337] tipo / uma + [338] é o número de palavras // 
+*BRU: [339] é / mas isso aí na hora cê vai / pegando // [340] e <tem também assim // 
+*HEL: [341] <Nossa> // 
+*BRU: [342] <se tem asterisco> / é porque o' / o tê / é "todos jogam" // 
+*HEL: [343] hum hum // 
+*BRU: [344] mas nos outros / pode ser que tenha que fazer pra todo mundo // 
+*HEL: [345] uhn // 
+*BRU: [346] aí tipo / &he / quando tiver asterisco assim / é porque aí cê vai tar fazendo não só pra mim // [347] cê vai tar fazendo a mímica pra todo mundo // 
+*HEL: [348] tá // [349] e outra coisa // [350] o outro grupo pode atrapalhar falando // 
+*LUC: [351] <uhn uhn> // 
+*HEL: [352] <porque quando> eu jogava / <o povo ficava> / repetindo a mesma <palavra / enchendo o saco> // 
+*BRU: [353] <ah / não não não> // [354] ah / isso é meio palha> // [355] né // 
+*LUC: [356] como assim / nũ entendi // 
+*BRU: [357] tipo / <vocês lá> / imitando / a gente // 
+*CEL: [358] <ficar avacalhando> // [359] não // [360] <nũ vale não> // 
+*HEL: [361] <é / tipo> / cês ficam <falando também> // 
+*LUC: [362] <isso pode ser / potencialmente> divertido / 
+*BRU: [363] <não> // 
+*LUC: [364] <mas enfim / yyyy hhh> // 
+*BRU: [365] <nũ acho> // 
+*HEL: [366] <é / mas é> // 
+*CEL: [367] <é / mas / pode não ser> // 
+*BRU: [368] <nũ acho> // [369] <é> // 
+*HEL: [370] <então> // 
+*BRU: [371] tá // [372] então vão lá // 
+*HEL: [373] hum hum // 
+*BRU: [374] tem que tirar então no dado pra ver quem começa // [375] nts // [376] que saco // [377] toma // 
+*HEL: [378] só que isso nũ significa que eu vá começar <a hhh> + 
+*BRU: [379] <não / só quem> tirar mais // 
+*HEL: [380] aqui em cima / ou no coisa // 
+*BRU: [381] qualquer lugar // 
+*LUC: [382] qualquer lugar // 
+*BRU: [383] Nossa hhh // [384] vai / Célio // [385] Nossa hhh // 
+*LUC: [386] <cê tirou um> // 
+*BRU: [387] <cê conseguiu ser> pior // [388] <não / ele conseguiu ser pior> // 
+*LUC: [389] <porra> // 
+*BRU: [390] <tá> // 
+*HEL: [391] <ai> // 
+*BRU: [392] <cê> quer começar adivinhando / ou fazendo a mímica // 
+*CEL: [393] bom / <nũ era pa parar ali> / mas tudo bem // 
+*HEL: [394] <adivinhando> // [395] <adivinhando> // 
+*BRU: [396] <ahn> // [397] tá falando do meu pé / né // 
+*CEL: [398] óbvio // 
+*BRU: [399] quem mandou cê jogar no meu pé hhh // 
+*CEL: [400] eu nũ joguei no seu pé <não> // 
+*BRU: [401] <uai hhh> // 
+*CEL: [402] <joguei pra lá> // 
+*BRU: [403] <hhh é> / ele veio pra cá> // 
+*CEL: [404] <ele foi> // 
+*HEL: [405] aqui // [406] eu acho melhor eu / <ficar assim / porque> + 
+*BRU: [407] <cê quer começar> + 
+*HEL: [408] não / eu adivinho // 
+*BRU: [409] adivinhando // 
+*HEL: [410] é // [411] porque / quero ver como é que cê faz // 
+*BRU: [412] tá // [413] então é objeto // 
+*CEL: [414] objeto // 
+*BRU: [415] tem um ali que é o mais difícil // [416] lazer // 
+*HEL: [417] é // [418] é lazer <é / onde tá> filme / e tudo / né // 
+*BRU: [419] <é o amarelo / nũ é> // 
+*CEL: [420] pra todo mundo // [421] não / né // 
+*BRU: [422] não // [423] nũ tem asterisco não // 
+*LUC: [424] é ocê que vai fazer <a xxx> // 
+*BRU: [425] <sou eu> // [426] vai // [427] pode ir // 
+*LUC: [428] pode ir // 
+*BRU: [429] pode // 
+*LUC: [430] a [/1] ea [/1] ea ela tem que adivinhar // 
+*BRU: [431] ela vai adivinhar // 
+*HEL: [432] hhh barril // [433] alambique // [434] garrafa // 
+*BRU: [435] uhn // 
+*HEL: [436] gargalo // [437] tampa // [438] &he / tampinha // 
+*LUC: [439] hhh <tampinha> // 
+*HEL: [440] <&abri> + [441] &he / bico // [442] &he / &he / saca-rolhas // [443] champanhe // [444] hhh garrafa // [445] &garra + [446] rolha // 
+*BRU: [447] uhn // [448] yes hhh // [449] yyyy // 
+*HEL: [450] <ai / que foda> // 
+*BRU: [451] <yyyy / né> // 
+*HEL: [452] <Nossa> // 
+*BRU: [453] agora é ocê que faz // 
+*LUC: [454] pera aí // [455] xá eu / voltar <a coisa> // 
+*HEL: [456] <sério> // 
+*LUC: [457] <pera aí / pera pera aí> / só um segundo / só vão esperar o [/1] a ampulheta / <desnegoçar> // 
+*BRU: [458] <sério> // 
+*CEL: [459] <é> // 
+*BRU: [460] é // [461] <vamo só> tirar // 
+*CEL: [462] <ampulheta> // 
+*HEL: [463] aqui // [464] mas primeiro cê nũ fez assim // [465] tipo / fez // 
+*BRU: [466] <não / mas isso nũ é regra não> // 
+*HEL: [467] <porque eu nem &sa + 
+*LUC: [468] <&ô [/1] &ô [/1] mas / &he / eu acho que pra> + 
+*HEL: [469] é porque quando é uma> / né // [470] quando for / mais é que é mais importante // 
+*BRU: [471] <é> // 
+*CEL: [472] é // 
